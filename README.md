@@ -4,3 +4,4 @@
 
 - ​	Strogonoff de Frango
 - ​    Fricassê de Frango
+- ​    Strogonoff de Carne
