@@ -5,4 +5,5 @@
 - ​	Strogonoff de Frango
 - ​    Fricassê de Frango
 - ​    Strogonoff de Carne
-- ​    Bolo de  Cenoura
+- ​    Pavê 
+- ​    Bolo de Cenoura
