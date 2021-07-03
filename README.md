@@ -3,4 +3,4 @@
 ### Olá! Bem vindo ao meu livro de receitas :page_with_curl:
 
 - ​	Strogonoff de Frango
-- 
+- ​    Fricassê de Frango
